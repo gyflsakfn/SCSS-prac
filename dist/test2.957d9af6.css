@@ -1,0 +1,64 @@
+.container ul li {
+  font-size: 40px;
+}
+.container ul li .name {
+  color: royalblue;
+}
+.container ul li .age {
+  color: orange;
+}
+
+.btn {
+  position: absolute;
+}
+.btn.active {
+  color: red;
+}
+
+list li:list-child {
+  margin-right: 0;
+}
+
+.box {
+  font-weight: bold;
+  font-size: 10px;
+  font-family: sans-serif;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 30px;
+}
+
+.container {
+  position: fixed;
+  top: 100px;
+}
+.container .item {
+  width: 100px;
+  height: 100px;
+  transform: translateX(100px);
+}
+
+div {
+  width: 40px;
+  height: 30px;
+  font-size: 20px;
+  margin: 16px;
+  padding: 6px;
+}
+
+span {
+  font-size: 10px;
+  line-height: 10px;
+  font-family: serif;
+  font: 10px/10px serif;
+}
+
+.box {
+  background-color: royalblue;
+  width: calc(100% - 200px);
+  height: 100px;
+}
+
+/*# sourceMappingURL=/test2.957d9af6.css.map */

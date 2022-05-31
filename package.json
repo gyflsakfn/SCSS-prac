@@ -1,0 +1,17 @@
+{
+  "name": "scss-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel test3.html",
+    "build": "parcel build test3.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.52.1"
+  }
+}
